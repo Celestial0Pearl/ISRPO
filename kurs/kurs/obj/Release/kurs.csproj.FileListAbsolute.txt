@@ -1,0 +1,18 @@
+C:\Users\4ord9\Desktop\todo1\ded\kurs\kurs\kurs\bin\Release\kurs.exe.config
+C:\Users\4ord9\Desktop\todo1\ded\kurs\kurs\kurs\bin\Release\kurs.exe
+C:\Users\4ord9\Desktop\todo1\ded\kurs\kurs\kurs\bin\Release\kurs.pdb
+C:\Users\4ord9\Desktop\todo1\ded\kurs\kurs\kurs\obj\Release\kurs.InfoForm.resources
+C:\Users\4ord9\Desktop\todo1\ded\kurs\kurs\kurs\obj\Release\kurs.MainForm.resources
+C:\Users\4ord9\Desktop\todo1\ded\kurs\kurs\kurs\obj\Release\kurs.Properties.Resources.resources
+C:\Users\4ord9\Desktop\todo1\ded\kurs\kurs\kurs\obj\Release\kurs.csproj.GenerateResource.cache
+C:\Users\4ord9\Desktop\todo1\ded\kurs\kurs\kurs\obj\Release\kurs.csproj.CoreCompileInputs.cache
+C:\Users\4ord9\Desktop\todo1\ded\kurs\kurs\kurs\obj\Release\kurs.exe
+C:\Users\4ord9\Desktop\todo1\ded\kurs\kurs\kurs\obj\Release\kurs.pdb
+E:\КУРСОВОЙ ПРОЕКТ\kurs\kurs\obj\Release\kurs.csprojAssemblyReference.cache
+E:\КУРСОВОЙ ПРОЕКТ\kurs\kurs\obj\Release\kurs.InfoForm.resources
+E:\КУРСОВОЙ ПРОЕКТ\kurs\kurs\obj\Release\kurs.MainForm.resources
+E:\КУРСОВОЙ ПРОЕКТ\kurs\kurs\obj\Release\kurs.Properties.Resources.resources
+E:\КУРСОВОЙ ПРОЕКТ\kurs\kurs\obj\Release\kurs.csproj.GenerateResource.cache
+E:\КУРСОВОЙ ПРОЕКТ\kurs\kurs\obj\Release\kurs.csproj.CoreCompileInputs.cache
+E:\КУРСОВОЙ ПРОЕКТ\kurs\kurs\obj\Release\kurs.exe
+E:\КУРСОВОЙ ПРОЕКТ\kurs\kurs\obj\Release\kurs.pdb
