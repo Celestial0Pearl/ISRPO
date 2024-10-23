@@ -10,6 +10,18 @@ namespace kurs
     public partial class MainForm : Form
     {
         private char computerChar;
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
         private string symbols = rus_str;
         private List<string> dict;
         private List<string> events;
