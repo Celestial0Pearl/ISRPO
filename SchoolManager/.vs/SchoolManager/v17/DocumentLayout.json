@@ -1,138 +1,114 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\",
+  "WorkspaceRootPath": "C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5A8B584B-5408-445C-855A-7473FD039C90}|SchoolManager\\SchoolManager.csproj|e:\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\schoolmanager\\schoolmanager\\scheduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A8B584B-5408-445C-855A-7473FD039C90}|SchoolManager\\SchoolManager.csproj|solutionrelative:schoolmanager\\scheduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\SchoolManager\\ScheduleForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SchoolManager\\ScheduleForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A8B584B-5408-445C-855A-7473FD039C90}|SchoolManager\\SchoolManager.csproj|e:\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\schoolmanager\\schoolmanager\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A8B584B-5408-445C-855A-7473FD039C90}|SchoolManager\\SchoolManager.csproj|solutionrelative:schoolmanager\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\SchoolManager\\ClassroomsForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SchoolManager\\ClassroomsForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A8B584B-5408-445C-855A-7473FD039C90}|SchoolManager\\SchoolManager.csproj|e:\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\schoolmanager\\schoolmanager\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A8B584B-5408-445C-855A-7473FD039C90}|SchoolManager\\SchoolManager.csproj|solutionrelative:schoolmanager\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\SchoolManager\\Config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SchoolManager\\Config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A8B584B-5408-445C-855A-7473FD039C90}|SchoolManager\\SchoolManager.csproj|E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\schoolmanager\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5A8B584B-5408-445C-855A-7473FD039C90}|SchoolManager\\SchoolManager.csproj|solutionrelative:schoolmanager\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\SchoolManager\\ScheduleForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SchoolManager\\ScheduleForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A8B584B-5408-445C-855A-7473FD039C90}|SchoolManager\\SchoolManager.csproj|E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\schoolmanager\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5A8B584B-5408-445C-855A-7473FD039C90}|SchoolManager\\SchoolManager.csproj|solutionrelative:schoolmanager\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\SchoolManager\\ClassForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SchoolManager\\ClassForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A8B584B-5408-445C-855A-7473FD039C90}|SchoolManager\\SchoolManager.csproj|E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\schoolmanager\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5A8B584B-5408-445C-855A-7473FD039C90}|SchoolManager\\SchoolManager.csproj|solutionrelative:schoolmanager\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\SchoolManager\\GradesForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SchoolManager\\GradesForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A8B584B-5408-445C-855A-7473FD039C90}|SchoolManager\\SchoolManager.csproj|e:\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\schoolmanager\\schoolmanager\\teacherform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A8B584B-5408-445C-855A-7473FD039C90}|SchoolManager\\SchoolManager.csproj|solutionrelative:schoolmanager\\teacherform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\schoolmanager\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:schoolmanager\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A8B584B-5408-445C-855A-7473FD039C90}|SchoolManager\\SchoolManager.csproj|e:\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\schoolmanager\\schoolmanager\\subjectsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A8B584B-5408-445C-855A-7473FD039C90}|SchoolManager\\SchoolManager.csproj|solutionrelative:schoolmanager\\subjectsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\schoolmanager\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:schoolmanager\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A8B584B-5408-445C-855A-7473FD039C90}|SchoolManager\\SchoolManager.csproj|e:\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\schoolmanager\\schoolmanager\\studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A8B584B-5408-445C-855A-7473FD039C90}|SchoolManager\\SchoolManager.csproj|solutionrelative:schoolmanager\\studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\schoolmanager\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:schoolmanager\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A8B584B-5408-445C-855A-7473FD039C90}|SchoolManager\\SchoolManager.csproj|e:\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\schoolmanager\\schoolmanager\\gradesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A8B584B-5408-445C-855A-7473FD039C90}|SchoolManager\\SchoolManager.csproj|solutionrelative:schoolmanager\\gradesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\SchoolManager\\LoginForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SchoolManager\\LoginForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A8B584B-5408-445C-855A-7473FD039C90}|SchoolManager\\SchoolManager.csproj|e:\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\schoolmanager\\schoolmanager\\classroomsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A8B584B-5408-445C-855A-7473FD039C90}|SchoolManager\\SchoolManager.csproj|solutionrelative:schoolmanager\\classroomsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\SchoolManager\\MainForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SchoolManager\\MainForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A8B584B-5408-445C-855A-7473FD039C90}|SchoolManager\\SchoolManager.csproj|e:\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\schoolmanager\\schoolmanager\\classform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A8B584B-5408-445C-855A-7473FD039C90}|SchoolManager\\SchoolManager.csproj|solutionrelative:schoolmanager\\classform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\schoolmanager\\studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:schoolmanager\\studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A8B584B-5408-445C-855A-7473FD039C90}|SchoolManager\\SchoolManager.csproj|e:\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\schoolmanager\\schoolmanager\\scheduleform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A8B584B-5408-445C-855A-7473FD039C90}|SchoolManager\\SchoolManager.csproj|solutionrelative:schoolmanager\\scheduleform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\SchoolManager\\TeacherForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SchoolManager\\TeacherForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A8B584B-5408-445C-855A-7473FD039C90}|SchoolManager\\SchoolManager.csproj|E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\schoolmanager\\scheduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5A8B584B-5408-445C-855A-7473FD039C90}|SchoolManager\\SchoolManager.csproj|solutionrelative:schoolmanager\\scheduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\SchoolManager\\StudentForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SchoolManager\\StudentForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A8B584B-5408-445C-855A-7473FD039C90}|SchoolManager\\SchoolManager.csproj|e:\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\schoolmanager\\schoolmanager\\teacherform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5A8B584B-5408-445C-855A-7473FD039C90}|SchoolManager\\SchoolManager.csproj|solutionrelative:schoolmanager\\teacherform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\SchoolManager\\SubjectsForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SchoolManager\\SubjectsForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A8B584B-5408-445C-855A-7473FD039C90}|SchoolManager\\SchoolManager.csproj|E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\schoolmanager\\gradesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5A8B584B-5408-445C-855A-7473FD039C90}|SchoolManager\\SchoolManager.csproj|solutionrelative:schoolmanager\\gradesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\SchoolManager\\RegisterForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SchoolManager\\RegisterForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A8B584B-5408-445C-855A-7473FD039C90}|SchoolManager\\SchoolManager.csproj|E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\schoolmanager\\classform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5A8B584B-5408-445C-855A-7473FD039C90}|SchoolManager\\SchoolManager.csproj|solutionrelative:schoolmanager\\classform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\SchoolManager\\TeacherForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SchoolManager\\TeacherForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A8B584B-5408-445C-855A-7473FD039C90}|SchoolManager\\SchoolManager.csproj|E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\schoolmanager\\classroomsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5A8B584B-5408-445C-855A-7473FD039C90}|SchoolManager\\SchoolManager.csproj|solutionrelative:schoolmanager\\classroomsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\SchoolManager\\StudentForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SchoolManager\\StudentForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A8B584B-5408-445C-855A-7473FD039C90}|SchoolManager\\SchoolManager.csproj|E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\schoolmanager\\studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5A8B584B-5408-445C-855A-7473FD039C90}|SchoolManager\\SchoolManager.csproj|solutionrelative:schoolmanager\\studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\SchoolManager\\SubjectsForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SchoolManager\\SubjectsForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A8B584B-5408-445C-855A-7473FD039C90}|SchoolManager\\SchoolManager.csproj|E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\schoolmanager\\subjectsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5A8B584B-5408-445C-855A-7473FD039C90}|SchoolManager\\SchoolManager.csproj|solutionrelative:schoolmanager\\subjectsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\SchoolManager\\GradesForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SchoolManager\\GradesForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A8B584B-5408-445C-855A-7473FD039C90}|SchoolManager\\SchoolManager.csproj|e:\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\schoolmanager\\schoolmanager\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A8B584B-5408-445C-855A-7473FD039C90}|SchoolManager\\SchoolManager.csproj|solutionrelative:schoolmanager\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\SchoolManager\\ClassroomsForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SchoolManager\\ClassroomsForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A8B584B-5408-445C-855A-7473FD039C90}|SchoolManager\\SchoolManager.csproj|e:\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\schoolmanager\\schoolmanager\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A8B584B-5408-445C-855A-7473FD039C90}|SchoolManager\\SchoolManager.csproj|solutionrelative:schoolmanager\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\SchoolManager\\LoginForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SchoolManager\\LoginForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A8B584B-5408-445C-855A-7473FD039C90}|SchoolManager\\SchoolManager.csproj|e:\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\schoolmanager\\schoolmanager\\teacherform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A8B584B-5408-445C-855A-7473FD039C90}|SchoolManager\\SchoolManager.csproj|solutionrelative:schoolmanager\\teacherform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\SchoolManager\\RegisterForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SchoolManager\\RegisterForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A8B584B-5408-445C-855A-7473FD039C90}|SchoolManager\\SchoolManager.csproj|e:\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\schoolmanager\\schoolmanager\\studentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A8B584B-5408-445C-855A-7473FD039C90}|SchoolManager\\SchoolManager.csproj|solutionrelative:schoolmanager\\studentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\SchoolManager\\RoundedButton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SchoolManager\\RoundedButton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A8B584B-5408-445C-855A-7473FD039C90}|SchoolManager\\SchoolManager.csproj|e:\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\schoolmanager\\schoolmanager\\subjectsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A8B584B-5408-445C-855A-7473FD039C90}|SchoolManager\\SchoolManager.csproj|solutionrelative:schoolmanager\\subjectsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\SchoolManager\\ClassForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SchoolManager\\ClassForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A8B584B-5408-445C-855A-7473FD039C90}|SchoolManager\\SchoolManager.csproj|e:\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\schoolmanager\\schoolmanager\\roundedbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A8B584B-5408-445C-855A-7473FD039C90}|SchoolManager\\SchoolManager.csproj|solutionrelative:schoolmanager\\roundedbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\SchoolManager\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SchoolManager\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A8B584B-5408-445C-855A-7473FD039C90}|SchoolManager\\SchoolManager.csproj|e:\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\schoolmanager\\schoolmanager\\registerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A8B584B-5408-445C-855A-7473FD039C90}|SchoolManager\\SchoolManager.csproj|solutionrelative:schoolmanager\\registerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A8B584B-5408-445C-855A-7473FD039C90}|SchoolManager\\SchoolManager.csproj|e:\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\schoolmanager\\schoolmanager\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A8B584B-5408-445C-855A-7473FD039C90}|SchoolManager\\SchoolManager.csproj|solutionrelative:schoolmanager\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A8B584B-5408-445C-855A-7473FD039C90}|SchoolManager\\SchoolManager.csproj|e:\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\schoolmanager\\schoolmanager\\gradesform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A8B584B-5408-445C-855A-7473FD039C90}|SchoolManager\\SchoolManager.csproj|solutionrelative:schoolmanager\\gradesform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A8B584B-5408-445C-855A-7473FD039C90}|SchoolManager\\SchoolManager.csproj|e:\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\schoolmanager\\schoolmanager\\classroomsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A8B584B-5408-445C-855A-7473FD039C90}|SchoolManager\\SchoolManager.csproj|solutionrelative:schoolmanager\\classroomsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A8B584B-5408-445C-855A-7473FD039C90}|SchoolManager\\SchoolManager.csproj|e:\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\schoolmanager\\schoolmanager\\classform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A8B584B-5408-445C-855A-7473FD039C90}|SchoolManager\\SchoolManager.csproj|solutionrelative:schoolmanager\\classform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A8B584B-5408-445C-855A-7473FD039C90}|SchoolManager\\SchoolManager.csproj|e:\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\schoolmanager\\schoolmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A8B584B-5408-445C-855A-7473FD039C90}|SchoolManager\\SchoolManager.csproj|solutionrelative:schoolmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A8B584B-5408-445C-855A-7473FD039C90}|SchoolManager\\SchoolManager.csproj|e:\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\schoolmanager\\schoolmanager\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A8B584B-5408-445C-855A-7473FD039C90}|SchoolManager\\SchoolManager.csproj|solutionrelative:schoolmanager\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\SchoolManager\\MainForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SchoolManager\\MainForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -142,383 +118,278 @@
       "DocumentGroups": [
         {
           "DockedWidth": 67,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 2,
               "Title": "Config.cs",
-              "DocumentMoniker": "E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\SchoolManager\\Config.cs",
+              "DocumentMoniker": "C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\SchoolManager\\Config.cs",
               "RelativeDocumentMoniker": "SchoolManager\\Config.cs",
-              "ToolTip": "E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\SchoolManager\\Config.cs",
+              "ToolTip": "C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\SchoolManager\\Config.cs",
               "RelativeToolTip": "SchoolManager\\Config.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-10T18:22:45.275Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ScheduleForm.Designer.cs",
-              "DocumentMoniker": "E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\SchoolManager\\ScheduleForm.Designer.cs",
-              "RelativeDocumentMoniker": "SchoolManager\\ScheduleForm.Designer.cs",
-              "ToolTip": "E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\SchoolManager\\ScheduleForm.Designer.cs",
-              "RelativeToolTip": "SchoolManager\\ScheduleForm.Designer.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAYwEgAAACMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T17:45:01.738Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ClassForm.cs",
-              "DocumentMoniker": "E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\SchoolManager\\ClassForm.cs",
-              "RelativeDocumentMoniker": "SchoolManager\\ClassForm.cs",
-              "ToolTip": "E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\SchoolManager\\ClassForm.cs",
-              "RelativeToolTip": "SchoolManager\\ClassForm.cs",
-              "ViewState": "AgIAAFwAAAAAAAAAAAAAwGsAAABfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T17:23:51.675Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ClassroomsForm.cs",
-              "DocumentMoniker": "E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\SchoolManager\\ClassroomsForm.cs",
-              "RelativeDocumentMoniker": "SchoolManager\\ClassroomsForm.cs",
-              "ToolTip": "E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\SchoolManager\\ClassroomsForm.cs",
-              "RelativeToolTip": "SchoolManager\\ClassroomsForm.cs",
-              "ViewState": "AgIAAFcAAAAAAAAAAAAAwGYAAABgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T17:24:42.05Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "GradesForm.cs",
-              "DocumentMoniker": "E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\SchoolManager\\GradesForm.cs",
-              "RelativeDocumentMoniker": "SchoolManager\\GradesForm.cs",
-              "ToolTip": "E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\SchoolManager\\GradesForm.cs",
-              "RelativeToolTip": "SchoolManager\\GradesForm.cs",
-              "ViewState": "AgIAAGsAAAAAAAAAAAAAwHoAAABmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T18:27:14.489Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "DocumentMoniker": "E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\SchoolManager\\LoginForm.cs",
-              "RelativeDocumentMoniker": "SchoolManager\\LoginForm.cs",
-              "ToolTip": "E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\SchoolManager\\LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "RelativeToolTip": "SchoolManager\\LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T16:12:11.14Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "RegisterForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "DocumentMoniker": "E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\SchoolManager\\RegisterForm.cs",
-              "RelativeDocumentMoniker": "SchoolManager\\RegisterForm.cs",
-              "ToolTip": "E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\SchoolManager\\RegisterForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "RelativeToolTip": "SchoolManager\\RegisterForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Title": "ClassForm.cs",
+              "DocumentMoniker": "C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\SchoolManager\\ClassForm.cs",
+              "RelativeDocumentMoniker": "SchoolManager\\ClassForm.cs",
+              "ToolTip": "C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\SchoolManager\\ClassForm.cs",
+              "RelativeToolTip": "SchoolManager\\ClassForm.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T16:16:58.642Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "DocumentMoniker": "E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\SchoolManager\\MainForm.cs",
-              "RelativeDocumentMoniker": "SchoolManager\\MainForm.cs",
-              "ToolTip": "E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\SchoolManager\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "RelativeToolTip": "SchoolManager\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T18:31:15.623Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LoginForm.cs",
-              "DocumentMoniker": "E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\SchoolManager\\LoginForm.cs",
-              "RelativeDocumentMoniker": "SchoolManager\\LoginForm.cs",
-              "ToolTip": "E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\SchoolManager\\LoginForm.cs",
-              "RelativeToolTip": "SchoolManager\\LoginForm.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAwwD8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T16:13:43.046Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-21T17:23:51.675Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MainForm.cs",
-              "DocumentMoniker": "E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\SchoolManager\\MainForm.cs",
+              "Title": "ClassroomsForm.cs",
+              "DocumentMoniker": "C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\SchoolManager\\ClassroomsForm.cs",
+              "RelativeDocumentMoniker": "SchoolManager\\ClassroomsForm.cs",
+              "ToolTip": "C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\SchoolManager\\ClassroomsForm.cs",
+              "RelativeToolTip": "SchoolManager\\ClassroomsForm.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T17:24:42.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GradesForm.cs",
+              "DocumentMoniker": "C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\SchoolManager\\GradesForm.cs",
+              "RelativeDocumentMoniker": "SchoolManager\\GradesForm.cs",
+              "ToolTip": "C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\SchoolManager\\GradesForm.cs",
+              "RelativeToolTip": "SchoolManager\\GradesForm.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T18:27:14.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\SchoolManager\\LoginForm.cs",
+              "RelativeDocumentMoniker": "SchoolManager\\LoginForm.cs",
+              "ToolTip": "E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\SchoolManager\\LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T16:12:11.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\SchoolManager\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "SchoolManager\\RegisterForm.cs",
+              "ToolTip": "E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\SchoolManager\\RegisterForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T16:16:58.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\SchoolManager\\MainForm.cs",
               "RelativeDocumentMoniker": "SchoolManager\\MainForm.cs",
-              "ToolTip": "E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\SchoolManager\\MainForm.cs",
+              "ToolTip": "E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\SchoolManager\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T18:31:15.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\SchoolManager\\LoginForm.cs",
+              "RelativeDocumentMoniker": "SchoolManager\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\SchoolManager\\LoginForm.cs",
+              "RelativeToolTip": "SchoolManager\\LoginForm.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwD8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T16:13:43.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\SchoolManager\\MainForm.cs",
+              "RelativeDocumentMoniker": "SchoolManager\\MainForm.cs",
+              "ToolTip": "C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\SchoolManager\\MainForm.cs",
               "RelativeToolTip": "SchoolManager\\MainForm.cs",
               "ViewState": "AgIAAEEAAAAAAAAAAAAAwFcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T17:30:28.811Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-21T17:30:28.811Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ScheduleForm.cs",
-              "DocumentMoniker": "E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\SchoolManager\\ScheduleForm.cs",
+              "DocumentMoniker": "C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\SchoolManager\\ScheduleForm.cs",
               "RelativeDocumentMoniker": "SchoolManager\\ScheduleForm.cs",
-              "ToolTip": "E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\SchoolManager\\ScheduleForm.cs",
+              "ToolTip": "C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\SchoolManager\\ScheduleForm.cs",
               "RelativeToolTip": "SchoolManager\\ScheduleForm.cs",
-              "ViewState": "AgIAAFAAAAAAAAAAAAAIwKsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T17:27:26.267Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T17:27:26.267Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 3,
+              "Title": "ScheduleForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\SchoolManager\\ScheduleForm.Designer.cs",
+              "RelativeDocumentMoniker": "SchoolManager\\ScheduleForm.Designer.cs",
+              "ToolTip": "C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\SchoolManager\\ScheduleForm.Designer.cs",
+              "RelativeToolTip": "SchoolManager\\ScheduleForm.Designer.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAYwEgAAACMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T17:45:01.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "StudentForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "DocumentMoniker": "E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\SchoolManager\\StudentForm.cs",
+              "DocumentMoniker": "C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\SchoolManager\\StudentForm.cs",
               "RelativeDocumentMoniker": "SchoolManager\\StudentForm.cs",
               "ToolTip": "E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\SchoolManager\\StudentForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "RelativeToolTip": "SchoolManager\\StudentForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T17:54:53.462Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+              "WhenOpened": "2024-10-21T17:54:53.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TeacherForm.cs",
+              "DocumentMoniker": "C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\SchoolManager\\TeacherForm.cs",
+              "RelativeDocumentMoniker": "SchoolManager\\TeacherForm.cs",
+              "ToolTip": "C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\SchoolManager\\TeacherForm.cs",
+              "RelativeToolTip": "SchoolManager\\TeacherForm.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T17:54:06.757Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "ScheduleForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "DocumentMoniker": "E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\SchoolManager\\ScheduleForm.cs",
-              "RelativeDocumentMoniker": "SchoolManager\\ScheduleForm.cs",
-              "ToolTip": "E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\SchoolManager\\ScheduleForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "RelativeToolTip": "SchoolManager\\ScheduleForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T17:59:52.339Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TeacherForm.cs",
-              "DocumentMoniker": "E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\SchoolManager\\TeacherForm.cs",
-              "RelativeDocumentMoniker": "SchoolManager\\TeacherForm.cs",
-              "ToolTip": "E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\SchoolManager\\TeacherForm.cs",
-              "RelativeToolTip": "SchoolManager\\TeacherForm.cs",
-              "ViewState": "AgIAAGEAAAAAAAAAAAAAwHIAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T17:54:06.757Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "StudentForm.cs",
-              "DocumentMoniker": "E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\SchoolManager\\StudentForm.cs",
+              "DocumentMoniker": "C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\SchoolManager\\StudentForm.cs",
               "RelativeDocumentMoniker": "SchoolManager\\StudentForm.cs",
-              "ToolTip": "E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\SchoolManager\\StudentForm.cs",
+              "ToolTip": "C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\SchoolManager\\StudentForm.cs",
               "RelativeToolTip": "SchoolManager\\StudentForm.cs",
               "ViewState": "AgIAAGwAAAAAAAAAAAAAwHsAAABkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T17:53:47.384Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SubjectsForm.cs",
-              "DocumentMoniker": "E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\SchoolManager\\SubjectsForm.cs",
-              "RelativeDocumentMoniker": "SchoolManager\\SubjectsForm.cs",
-              "ToolTip": "E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\SchoolManager\\SubjectsForm.cs",
-              "RelativeToolTip": "SchoolManager\\SubjectsForm.cs",
-              "ViewState": "AgIAAFUAAAAAAAAAAAAAwGQAAABnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T17:53:59.61Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "GradesForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "DocumentMoniker": "E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\SchoolManager\\GradesForm.cs",
-              "RelativeDocumentMoniker": "SchoolManager\\GradesForm.cs",
-              "ToolTip": "E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\SchoolManager\\GradesForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "RelativeToolTip": "SchoolManager\\GradesForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T17:58:05.412Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ClassForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "DocumentMoniker": "E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\SchoolManager\\ClassForm.cs",
-              "RelativeDocumentMoniker": "SchoolManager\\ClassForm.cs",
-              "ToolTip": "E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\SchoolManager\\ClassForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "RelativeToolTip": "SchoolManager\\ClassForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T17:50:40.124Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ClassroomsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "DocumentMoniker": "E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\SchoolManager\\ClassroomsForm.cs",
-              "RelativeDocumentMoniker": "SchoolManager\\ClassroomsForm.cs",
-              "ToolTip": "E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\SchoolManager\\ClassroomsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "RelativeToolTip": "SchoolManager\\ClassroomsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T18:29:54.958Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+              "WhenOpened": "2024-10-22T17:53:47.384Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "TeacherForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "DocumentMoniker": "E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\SchoolManager\\TeacherForm.cs",
-              "RelativeDocumentMoniker": "SchoolManager\\TeacherForm.cs",
-              "ToolTip": "E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\SchoolManager\\TeacherForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "RelativeToolTip": "SchoolManager\\TeacherForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Title": "SubjectsForm.cs",
+              "DocumentMoniker": "C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\SchoolManager\\SubjectsForm.cs",
+              "RelativeDocumentMoniker": "SchoolManager\\SubjectsForm.cs",
+              "ToolTip": "C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\SchoolManager\\SubjectsForm.cs",
+              "RelativeToolTip": "SchoolManager\\SubjectsForm.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T18:09:02.057Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+              "WhenOpened": "2024-10-22T17:53:59.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RegisterForm.cs",
+              "DocumentMoniker": "C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\SchoolManager\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "SchoolManager\\RegisterForm.cs",
+              "ToolTip": "C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\SchoolManager\\RegisterForm.cs",
+              "RelativeToolTip": "SchoolManager\\RegisterForm.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA5wDMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T16:17:22.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TeacherForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\SchoolManager\\TeacherForm.Designer.cs",
+              "RelativeDocumentMoniker": "SchoolManager\\TeacherForm.Designer.cs",
+              "ToolTip": "C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\SchoolManager\\TeacherForm.Designer.cs",
+              "RelativeToolTip": "SchoolManager\\TeacherForm.Designer.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAqwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T17:55:36.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StudentForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\SchoolManager\\StudentForm.Designer.cs",
+              "RelativeDocumentMoniker": "SchoolManager\\StudentForm.Designer.cs",
+              "ToolTip": "C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\SchoolManager\\StudentForm.Designer.cs",
+              "RelativeToolTip": "SchoolManager\\StudentForm.Designer.cs",
+              "ViewState": "AQIAALsAAAAAAAAAAAAowMwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T17:55:01.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SubjectsForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\SchoolManager\\SubjectsForm.Designer.cs",
+              "RelativeDocumentMoniker": "SchoolManager\\SubjectsForm.Designer.cs",
+              "ToolTip": "C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\SchoolManager\\SubjectsForm.Designer.cs",
+              "RelativeToolTip": "SchoolManager\\SubjectsForm.Designer.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAIBJwAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T17:45:16.418Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "SubjectsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "DocumentMoniker": "E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\SchoolManager\\SubjectsForm.cs",
-              "RelativeDocumentMoniker": "SchoolManager\\SubjectsForm.cs",
-              "ToolTip": "E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\SchoolManager\\SubjectsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "RelativeToolTip": "SchoolManager\\SubjectsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Title": "GradesForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\SchoolManager\\GradesForm.Designer.cs",
+              "RelativeDocumentMoniker": "SchoolManager\\GradesForm.Designer.cs",
+              "ToolTip": "C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\SchoolManager\\GradesForm.Designer.cs",
+              "RelativeToolTip": "SchoolManager\\GradesForm.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAcwCcAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T18:08:03.01Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+              "WhenOpened": "2024-10-21T17:44:21.774Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
-              "Title": "RegisterForm.cs",
-              "DocumentMoniker": "E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\SchoolManager\\RegisterForm.cs",
-              "RelativeDocumentMoniker": "SchoolManager\\RegisterForm.cs",
-              "ToolTip": "E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\SchoolManager\\RegisterForm.cs",
-              "RelativeToolTip": "SchoolManager\\RegisterForm.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAA5wDMAAAAhAAAAAAAAAA==",
+              "Title": "ClassroomsForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\SchoolManager\\ClassroomsForm.Designer.cs",
+              "RelativeDocumentMoniker": "SchoolManager\\ClassroomsForm.Designer.cs",
+              "ToolTip": "C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\SchoolManager\\ClassroomsForm.Designer.cs",
+              "RelativeToolTip": "SchoolManager\\ClassroomsForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T16:17:22.062Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-21T17:43:38.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\SchoolManager\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "SchoolManager\\LoginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\SchoolManager\\LoginForm.Designer.cs",
+              "RelativeToolTip": "SchoolManager\\LoginForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T16:12:13.023Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
-              "Title": "TeacherForm.Designer.cs",
-              "DocumentMoniker": "E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\SchoolManager\\TeacherForm.Designer.cs",
-              "RelativeDocumentMoniker": "SchoolManager\\TeacherForm.Designer.cs",
-              "ToolTip": "E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\SchoolManager\\TeacherForm.Designer.cs",
-              "RelativeToolTip": "SchoolManager\\TeacherForm.Designer.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAqwCkAAAAAAAAAAAAAAA==",
+              "Title": "RegisterForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\SchoolManager\\RegisterForm.Designer.cs",
+              "RelativeDocumentMoniker": "SchoolManager\\RegisterForm.Designer.cs",
+              "ToolTip": "C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\SchoolManager\\RegisterForm.Designer.cs",
+              "RelativeToolTip": "SchoolManager\\RegisterForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T17:55:36.702Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-21T16:18:09.896Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "StudentForm.Designer.cs",
-              "DocumentMoniker": "E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\SchoolManager\\StudentForm.Designer.cs",
-              "RelativeDocumentMoniker": "SchoolManager\\StudentForm.Designer.cs",
-              "ToolTip": "E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\SchoolManager\\StudentForm.Designer.cs",
-              "RelativeToolTip": "SchoolManager\\StudentForm.Designer.cs",
-              "ViewState": "AQIAALsAAAAAAAAAAAAowMwAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T17:55:01.147Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "SubjectsForm.Designer.cs",
-              "DocumentMoniker": "E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\SchoolManager\\SubjectsForm.Designer.cs",
-              "RelativeDocumentMoniker": "SchoolManager\\SubjectsForm.Designer.cs",
-              "ToolTip": "E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\SchoolManager\\SubjectsForm.Designer.cs",
-              "RelativeToolTip": "SchoolManager\\SubjectsForm.Designer.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAIBJwAkAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T17:45:16.418Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "GradesForm.Designer.cs",
-              "DocumentMoniker": "E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\SchoolManager\\GradesForm.Designer.cs",
-              "RelativeDocumentMoniker": "SchoolManager\\GradesForm.Designer.cs",
-              "ToolTip": "E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\SchoolManager\\GradesForm.Designer.cs",
-              "RelativeToolTip": "SchoolManager\\GradesForm.Designer.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAcwCcAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T17:44:21.774Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "ClassroomsForm.Designer.cs",
-              "DocumentMoniker": "E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\SchoolManager\\ClassroomsForm.Designer.cs",
-              "RelativeDocumentMoniker": "SchoolManager\\ClassroomsForm.Designer.cs",
-              "ToolTip": "E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\SchoolManager\\ClassroomsForm.Designer.cs",
-              "RelativeToolTip": "SchoolManager\\ClassroomsForm.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T17:43:38.377Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "LoginForm.Designer.cs",
-              "DocumentMoniker": "E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\SchoolManager\\LoginForm.Designer.cs",
-              "RelativeDocumentMoniker": "SchoolManager\\LoginForm.Designer.cs",
-              "ToolTip": "E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\SchoolManager\\LoginForm.Designer.cs",
-              "RelativeToolTip": "SchoolManager\\LoginForm.Designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T16:12:13.023Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "RegisterForm.Designer.cs",
-              "DocumentMoniker": "E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\SchoolManager\\RegisterForm.Designer.cs",
-              "RelativeDocumentMoniker": "SchoolManager\\RegisterForm.Designer.cs",
-              "ToolTip": "E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\SchoolManager\\RegisterForm.Designer.cs",
-              "RelativeToolTip": "SchoolManager\\RegisterForm.Designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T16:18:09.896Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
               "Title": "RoundedButton.cs",
-              "DocumentMoniker": "E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\SchoolManager\\RoundedButton.cs",
+              "DocumentMoniker": "C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\SchoolManager\\RoundedButton.cs",
               "RelativeDocumentMoniker": "SchoolManager\\RoundedButton.cs",
-              "ToolTip": "E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\SchoolManager\\RoundedButton.cs",
+              "ToolTip": "C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\SchoolManager\\RoundedButton.cs",
               "RelativeToolTip": "SchoolManager\\RoundedButton.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -526,24 +397,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 24,
               "Title": "ClassForm.Designer.cs",
-              "DocumentMoniker": "E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\SchoolManager\\ClassForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\SchoolManager\\ClassForm.Designer.cs",
               "RelativeDocumentMoniker": "SchoolManager\\ClassForm.Designer.cs",
-              "ToolTip": "E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\SchoolManager\\ClassForm.Designer.cs",
+              "ToolTip": "C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\SchoolManager\\ClassForm.Designer.cs",
               "RelativeToolTip": "SchoolManager\\ClassForm.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T17:42:50.667Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-21T17:42:50.667Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 25,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\SchoolManager\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\SchoolManager\\Program.cs",
               "RelativeDocumentMoniker": "SchoolManager\\Program.cs",
-              "ToolTip": "E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\SchoolManager\\Program.cs",
+              "ToolTip": "C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\SchoolManager\\Program.cs",
               "RelativeToolTip": "SchoolManager\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -551,16 +421,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 26,
               "Title": "MainForm.Designer.cs",
-              "DocumentMoniker": "E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\SchoolManager\\MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\SchoolManager\\MainForm.Designer.cs",
               "RelativeDocumentMoniker": "SchoolManager\\MainForm.Designer.cs",
-              "ToolTip": "E:\\\u041A\u0423\u0420\u0421\u041E\u0412\u041E\u0419 \u041F\u0420\u041E\u0415\u041A\u0422\\SchoolManager\\SchoolManager\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\429198-26\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ISRPO\\SchoolManager\\SchoolManager\\MainForm.Designer.cs",
               "RelativeToolTip": "SchoolManager\\MainForm.Designer.cs",
               "ViewState": "AQIAABkAAAAAAAAAAAAQwHEAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T18:09:54.637Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-10T18:09:54.637Z"
             }
           ]
         }

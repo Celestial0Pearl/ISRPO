@@ -7,7 +7,7 @@ namespace SchoolManager
     {
         public MainForm(int userId)
         {
-            InitializeComponent();
+            InitializeComponent()                      ;
             this.BackColor = System.Drawing.Color.LightBlue;
             //this.IsMdiContainer = true;
             this.FormClosed += MainForm_FormClosed;
@@ -85,6 +85,7 @@ namespace SchoolManager
         {
             Application.Exit();
         }
+		
     }
 }
 
