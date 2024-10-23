@@ -1,0 +1,47 @@
+# Общие исключения для Visual Studio
+.vs/
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.userprefs
+
+# Папки для билдов и временные файлы
+bin/
+obj/
+Debug/
+Release/
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+
+# Пакеты NuGet
+packages/
+*.nupkg
+project.lock.json
+project.fragment.lock.json
+
+# Конфигурационные файлы
+appsettings.json
+appsettings.Development.json
+secrets.json
+
+# Конфигурации для IDE
+.idea/
+*.sln.iml
+
+# Тестовые результаты
+TestResults/
+*.TestResults.xml
+
+# Папка publish
+publish/
+
+# Общие исключения для системы
+*.DS_Store
+*.bak
+*.swp
+*.tmp
+*.temp
