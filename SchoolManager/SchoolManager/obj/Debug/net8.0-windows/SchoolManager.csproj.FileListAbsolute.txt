@@ -1,0 +1,97 @@
+C:\Users\Dmitry\source\repos\SchoolManager\SchoolManager\bin\Debug\net8.0-windows\SchoolManager.exe
+C:\Users\Dmitry\source\repos\SchoolManager\SchoolManager\bin\Debug\net8.0-windows\SchoolManager.deps.json
+C:\Users\Dmitry\source\repos\SchoolManager\SchoolManager\bin\Debug\net8.0-windows\SchoolManager.runtimeconfig.json
+C:\Users\Dmitry\source\repos\SchoolManager\SchoolManager\bin\Debug\net8.0-windows\SchoolManager.dll
+C:\Users\Dmitry\source\repos\SchoolManager\SchoolManager\bin\Debug\net8.0-windows\SchoolManager.pdb
+C:\Users\Dmitry\source\repos\SchoolManager\SchoolManager\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Dmitry\source\repos\SchoolManager\SchoolManager\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Dmitry\source\repos\SchoolManager\SchoolManager\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Dmitry\source\repos\SchoolManager\SchoolManager\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Dmitry\source\repos\SchoolManager\SchoolManager\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dmitry\source\repos\SchoolManager\SchoolManager\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dmitry\source\repos\SchoolManager\SchoolManager\obj\Debug\net8.0-windows\SchoolManager.csproj.AssemblyReference.cache
+C:\Users\Dmitry\source\repos\SchoolManager\SchoolManager\obj\Debug\net8.0-windows\SchoolManager.StudentsForm.resources
+C:\Users\Dmitry\source\repos\SchoolManager\SchoolManager\obj\Debug\net8.0-windows\SchoolManager.csproj.GenerateResource.cache
+C:\Users\Dmitry\source\repos\SchoolManager\SchoolManager\obj\Debug\net8.0-windows\SchoolManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dmitry\source\repos\SchoolManager\SchoolManager\obj\Debug\net8.0-windows\SchoolManager.AssemblyInfoInputs.cache
+C:\Users\Dmitry\source\repos\SchoolManager\SchoolManager\obj\Debug\net8.0-windows\SchoolManager.AssemblyInfo.cs
+C:\Users\Dmitry\source\repos\SchoolManager\SchoolManager\obj\Debug\net8.0-windows\SchoolManager.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\SchoolManager\SchoolManager\obj\Debug\net8.0-windows\SchoolMa.03C487B5.Up2Date
+C:\Users\Dmitry\source\repos\SchoolManager\SchoolManager\obj\Debug\net8.0-windows\SchoolManager.dll
+C:\Users\Dmitry\source\repos\SchoolManager\SchoolManager\obj\Debug\net8.0-windows\refint\SchoolManager.dll
+C:\Users\Dmitry\source\repos\SchoolManager\SchoolManager\obj\Debug\net8.0-windows\SchoolManager.pdb
+C:\Users\Dmitry\source\repos\SchoolManager\SchoolManager\obj\Debug\net8.0-windows\SchoolManager.genruntimeconfig.cache
+C:\Users\Dmitry\source\repos\SchoolManager\SchoolManager\obj\Debug\net8.0-windows\ref\SchoolManager.dll
+C:\Users\Dmitry\source\repos\SchoolManager\SchoolManager\obj\Debug\net8.0-windows\SchoolManager.ClassForm.resources
+C:\Users\Dmitry\source\repos\SchoolManager\SchoolManager\obj\Debug\net8.0-windows\MainForm.resources
+C:\Users\Dmitry\source\repos\SchoolManager\SchoolManager\obj\Debug\net8.0-windows\SchoolManager.ScheduleForm.resources
+E:\КУРСОВОЙ ПРОЕКТ\SchoolManager\SchoolManager\bin\Debug\net8.0-windows\SchoolManager.exe
+E:\КУРСОВОЙ ПРОЕКТ\SchoolManager\SchoolManager\bin\Debug\net8.0-windows\SchoolManager.deps.json
+E:\КУРСОВОЙ ПРОЕКТ\SchoolManager\SchoolManager\bin\Debug\net8.0-windows\SchoolManager.runtimeconfig.json
+E:\КУРСОВОЙ ПРОЕКТ\SchoolManager\SchoolManager\bin\Debug\net8.0-windows\SchoolManager.dll
+E:\КУРСОВОЙ ПРОЕКТ\SchoolManager\SchoolManager\bin\Debug\net8.0-windows\SchoolManager.pdb
+E:\КУРСОВОЙ ПРОЕКТ\SchoolManager\SchoolManager\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+E:\КУРСОВОЙ ПРОЕКТ\SchoolManager\SchoolManager\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+E:\КУРСОВОЙ ПРОЕКТ\SchoolManager\SchoolManager\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+E:\КУРСОВОЙ ПРОЕКТ\SchoolManager\SchoolManager\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+E:\КУРСОВОЙ ПРОЕКТ\SchoolManager\SchoolManager\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\КУРСОВОЙ ПРОЕКТ\SchoolManager\SchoolManager\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\КУРСОВОЙ ПРОЕКТ\SchoolManager\SchoolManager\obj\Debug\net8.0-windows\SchoolManager.csproj.AssemblyReference.cache
+E:\КУРСОВОЙ ПРОЕКТ\SchoolManager\SchoolManager\obj\Debug\net8.0-windows\SchoolManager.ClassForm.resources
+E:\КУРСОВОЙ ПРОЕКТ\SchoolManager\SchoolManager\obj\Debug\net8.0-windows\SchoolManager.ScheduleForm.resources
+E:\КУРСОВОЙ ПРОЕКТ\SchoolManager\SchoolManager\obj\Debug\net8.0-windows\SchoolManager.StudentsForm.resources
+E:\КУРСОВОЙ ПРОЕКТ\SchoolManager\SchoolManager\obj\Debug\net8.0-windows\SchoolManager.csproj.GenerateResource.cache
+E:\КУРСОВОЙ ПРОЕКТ\SchoolManager\SchoolManager\obj\Debug\net8.0-windows\SchoolManager.GeneratedMSBuildEditorConfig.editorconfig
+E:\КУРСОВОЙ ПРОЕКТ\SchoolManager\SchoolManager\obj\Debug\net8.0-windows\SchoolManager.AssemblyInfoInputs.cache
+E:\КУРСОВОЙ ПРОЕКТ\SchoolManager\SchoolManager\obj\Debug\net8.0-windows\SchoolManager.AssemblyInfo.cs
+E:\КУРСОВОЙ ПРОЕКТ\SchoolManager\SchoolManager\obj\Debug\net8.0-windows\SchoolManager.csproj.CoreCompileInputs.cache
+E:\КУРСОВОЙ ПРОЕКТ\SchoolManager\SchoolManager\obj\Debug\net8.0-windows\SchoolMa.03C487B5.Up2Date
+E:\КУРСОВОЙ ПРОЕКТ\SchoolManager\SchoolManager\obj\Debug\net8.0-windows\SchoolManager.dll
+E:\КУРСОВОЙ ПРОЕКТ\SchoolManager\SchoolManager\obj\Debug\net8.0-windows\refint\SchoolManager.dll
+E:\КУРСОВОЙ ПРОЕКТ\SchoolManager\SchoolManager\obj\Debug\net8.0-windows\SchoolManager.pdb
+E:\КУРСОВОЙ ПРОЕКТ\SchoolManager\SchoolManager\obj\Debug\net8.0-windows\SchoolManager.genruntimeconfig.cache
+E:\КУРСОВОЙ ПРОЕКТ\SchoolManager\SchoolManager\obj\Debug\net8.0-windows\ref\SchoolManager.dll
+E:\КУРСОВОЙ ПРОЕКТ\SchoolManager\SchoolManager\obj\Debug\net8.0-windows\SchoolManager.TeacherForm.resources
+E:\КУРСОВОЙ ПРОЕКТ\SchoolManager\SchoolManager\obj\Debug\net8.0-windows\SchoolManager.GradesForm.resources
+E:\КУРСОВОЙ ПРОЕКТ\SchoolManager\SchoolManager\obj\Debug\net8.0-windows\SchoolManager.SubjectsForm.resources
+E:\КУРСОВОЙ ПРОЕКТ\SchoolManager\SchoolManager\obj\Debug\net8.0-windows\SchoolManager.ClassroomsForm.resources
+E:\КУРСОВОЙ ПРОЕКТ\SchoolManager\SchoolManager\obj\Debug\net8.0-windows\SchoolManager.MainForm.resources
+E:\КУРСОВОЙ ПРОЕКТ\SchoolManager\SchoolManager\obj\Debug\net8.0-windows\SchoolManager.Properties.Resources.resources
+C:\Users\Dmitry\Desktop\SchoolManager\SchoolManager\bin\Debug\net8.0-windows\SchoolManager.exe
+C:\Users\Dmitry\Desktop\SchoolManager\SchoolManager\bin\Debug\net8.0-windows\SchoolManager.deps.json
+C:\Users\Dmitry\Desktop\SchoolManager\SchoolManager\bin\Debug\net8.0-windows\SchoolManager.runtimeconfig.json
+C:\Users\Dmitry\Desktop\SchoolManager\SchoolManager\bin\Debug\net8.0-windows\SchoolManager.dll
+C:\Users\Dmitry\Desktop\SchoolManager\SchoolManager\bin\Debug\net8.0-windows\SchoolManager.pdb
+C:\Users\Dmitry\Desktop\SchoolManager\SchoolManager\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Dmitry\Desktop\SchoolManager\SchoolManager\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Dmitry\Desktop\SchoolManager\SchoolManager\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Dmitry\Desktop\SchoolManager\SchoolManager\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Dmitry\Desktop\SchoolManager\SchoolManager\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dmitry\Desktop\SchoolManager\SchoolManager\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dmitry\Desktop\SchoolManager\SchoolManager\obj\Debug\net8.0-windows\SchoolManager.csproj.AssemblyReference.cache
+C:\Users\Dmitry\Desktop\SchoolManager\SchoolManager\obj\Debug\net8.0-windows\SchoolManager.ClassForm.resources
+C:\Users\Dmitry\Desktop\SchoolManager\SchoolManager\obj\Debug\net8.0-windows\SchoolManager.ClassroomsForm.resources
+C:\Users\Dmitry\Desktop\SchoolManager\SchoolManager\obj\Debug\net8.0-windows\SchoolManager.GradesForm.resources
+C:\Users\Dmitry\Desktop\SchoolManager\SchoolManager\obj\Debug\net8.0-windows\SchoolManager.MainForm.resources
+C:\Users\Dmitry\Desktop\SchoolManager\SchoolManager\obj\Debug\net8.0-windows\SchoolManager.Properties.Resources.resources
+C:\Users\Dmitry\Desktop\SchoolManager\SchoolManager\obj\Debug\net8.0-windows\SchoolManager.ScheduleForm.resources
+C:\Users\Dmitry\Desktop\SchoolManager\SchoolManager\obj\Debug\net8.0-windows\SchoolManager.StudentsForm.resources
+C:\Users\Dmitry\Desktop\SchoolManager\SchoolManager\obj\Debug\net8.0-windows\SchoolManager.SubjectsForm.resources
+C:\Users\Dmitry\Desktop\SchoolManager\SchoolManager\obj\Debug\net8.0-windows\SchoolManager.TeacherForm.resources
+C:\Users\Dmitry\Desktop\SchoolManager\SchoolManager\obj\Debug\net8.0-windows\SchoolManager.csproj.GenerateResource.cache
+C:\Users\Dmitry\Desktop\SchoolManager\SchoolManager\obj\Debug\net8.0-windows\SchoolManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dmitry\Desktop\SchoolManager\SchoolManager\obj\Debug\net8.0-windows\SchoolManager.AssemblyInfoInputs.cache
+C:\Users\Dmitry\Desktop\SchoolManager\SchoolManager\obj\Debug\net8.0-windows\SchoolManager.AssemblyInfo.cs
+C:\Users\Dmitry\Desktop\SchoolManager\SchoolManager\obj\Debug\net8.0-windows\SchoolManager.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\Desktop\SchoolManager\SchoolManager\obj\Debug\net8.0-windows\SchoolMa.03C487B5.Up2Date
+C:\Users\Dmitry\Desktop\SchoolManager\SchoolManager\obj\Debug\net8.0-windows\SchoolManager.dll
+C:\Users\Dmitry\Desktop\SchoolManager\SchoolManager\obj\Debug\net8.0-windows\refint\SchoolManager.dll
+C:\Users\Dmitry\Desktop\SchoolManager\SchoolManager\obj\Debug\net8.0-windows\SchoolManager.pdb
+C:\Users\Dmitry\Desktop\SchoolManager\SchoolManager\obj\Debug\net8.0-windows\SchoolManager.genruntimeconfig.cache
+C:\Users\Dmitry\Desktop\SchoolManager\SchoolManager\obj\Debug\net8.0-windows\ref\SchoolManager.dll
+C:\Users\Dmitry\Desktop\SchoolManager\SchoolManager\obj\Debug\net8.0-windows\SchoolManager.LoginForm.resources
+C:\Users\Dmitry\Desktop\SchoolManager\SchoolManager\obj\Debug\net8.0-windows\SchoolManager.RegisterForm.resources
+C:\Users\Dmitry\Desktop\SchoolManager\SchoolManager\obj\Debug\net8.0-windows\RoundedTextBox.resources
+E:\КУРСОВОЙ ПРОЕКТ\SchoolManager\SchoolManager\obj\Debug\net8.0-windows\SchoolManager.LoginForm.resources
+E:\КУРСОВОЙ ПРОЕКТ\SchoolManager\SchoolManager\obj\Debug\net8.0-windows\SchoolManager.RegisterForm.resources
+E:\КУРСОВОЙ ПРОЕКТ\SchoolManager\SchoolManager\obj\Debug\net8.0-windows\RoundedTextBox.resources
