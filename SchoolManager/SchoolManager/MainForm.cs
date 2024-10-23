@@ -8,6 +8,16 @@ namespace SchoolManager
         public MainForm(int userId)
         {
             InitializeComponent()                      ;
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
             this.BackColor = System.Drawing.Color.LightBlue;
             //this.IsMdiContainer = true;
             this.FormClosed += MainForm_FormClosed;
